@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064531580572",
+    "project_id": "sigma-chemist-450512-m9",
+    "storage_bucket": "sigma-chemist-450512-m9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064531580572:android:464d14f5fc5ecd6f6bbf59",
+        "android_client_info": {
+          "package_name": "com.example.instagram_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZDrKEkDQUwISfFlTLNMqnC6veQlVNWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
